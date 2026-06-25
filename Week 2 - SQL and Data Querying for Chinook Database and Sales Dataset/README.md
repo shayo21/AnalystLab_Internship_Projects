@@ -54,4 +54,6 @@ The concrete deliverables and outcomes of this project include:
 
 ## Project Files
 
+![Week 2 - Project Analysis](
+
 
