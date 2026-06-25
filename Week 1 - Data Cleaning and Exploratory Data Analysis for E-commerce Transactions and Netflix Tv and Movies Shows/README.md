@@ -82,3 +82,5 @@ Data validation was performed by identifying and handling invalid values, incons
 ## Dashboard Preview
 
 ![Netflix Dashboard](https://github.com/shayo21/AnalystLab_Internship_Projects/blob/main/Netflix%20Dashboard.jpg)
+
+![E-commerce Dashboard](
