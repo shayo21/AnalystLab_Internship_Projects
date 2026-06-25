@@ -83,4 +83,9 @@ Data validation was performed by identifying and handling invalid values, incons
 
 ![Netflix Dashboard](https://github.com/shayo21/AnalystLab_Internship_Projects/blob/main/Netflix%20Dashboard.jpg)
 
-![E-commerce Dashboard](
+
+![E-commerce Dashboard](https://github.com/shayo21/AnalystLab_Internship_Projects/blob/main/E-commerce%20Dashboard.jpg)
+
+## Project Files
+
+![Week 1 & 2 projects_Jupyter Notebook](https://github.com/shayo21/AnalystLab_Internship_Projects/blob/main/AnalystLab%20Internship%20Project(WK%201%20%26%202).ipynb)
