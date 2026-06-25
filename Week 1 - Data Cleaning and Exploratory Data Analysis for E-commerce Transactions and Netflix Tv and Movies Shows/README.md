@@ -1,4 +1,4 @@
-!# Project Overview
+# Project Overview
 
 The project analyzes e-commerce transactions for a UK company and netflix content performance to identify sales trends and patterns.
 
@@ -82,7 +82,7 @@ Data validation was performed by identifying and handling invalid values, incons
 ## Dashboard Preview
 
 ![Netflix Content Performance Dashboard]
-(Netflix Dashboard.jpg)
+(AnalystLab_Internship_Projects/Netflix Dashboard.jpg) 
 
 
 
