@@ -1,4 +1,4 @@
-# Project Overview
+!# Project Overview
 
 The project analyzes e-commerce transactions for a UK company and netflix content performance to identify sales trends and patterns.
 
@@ -78,6 +78,11 @@ Data validation was performed by identifying and handling invalid values, incons
 ### Neflix Content Recommendations 
 * Netflix should continue investment in localized Indian content (especially in the Drama and Comedy genres) which represents a massive avenue for international subscriber retention and growth
 * Production budgets should continue to prioritize TV-MA International Movies and Dramas, as this is where the core catalog strength lies.
+
+## Dashboard Preview
+
+! [Netflix Content Performance Dashboard]
+(images/Netflix Dashboard.jpeg)
 
 
 
