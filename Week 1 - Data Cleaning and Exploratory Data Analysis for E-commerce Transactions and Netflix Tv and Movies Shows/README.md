@@ -81,8 +81,8 @@ Data validation was performed by identifying and handling invalid values, incons
 
 ## Dashboard Preview
 
-! [Netflix Content Performance Dashboard]
-(images/Netflix Dashboard.jpeg)
+![Netflix Content Performance Dashboard]
+(Netflix Dashboard.jpeg)
 
 
 
