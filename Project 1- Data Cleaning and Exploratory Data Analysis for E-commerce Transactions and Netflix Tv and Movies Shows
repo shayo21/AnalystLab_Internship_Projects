@@ -5,3 +5,21 @@ The project analyzes e-commerce transactions for a UK company and netflix conten
 ## Business Problem
 
 Revenue generating and customer purchase performance are important key drives for business growth and development. The two companies needed insights into e-commerce transactions and netflix tv and movies performance to identify factors contributing to revenue generated and customers purchasing patterns and performance in specific countries.
+
+## Project Objectives
+
+* to clean, explore, and validate two disinvt dataset to extract actionable business insights.
+* to understand customer purchasing behaviours and content distribution trends.
+
+## Data Preparation
+The data prepration is categorized in three phrases. Which are:
+
+### Data Understanding 
+
+To understand the data, the dataset was displayed using (df.describe) function to know the number of rows and columns, data types of all columns, categorical and numerical features, and unique identifiers (primary keys).
+
+### Data Cleaning 
+
+The dataset was cleaned to identify columns with missing values, handling missing values either by dropping them.or filling them (with the variable "Unknown"), identify and remove duplicates rowe where necessary, ensure standardization through fixing incorrect date format, text format (upper and lower case), column names and data type.
+
+### 
