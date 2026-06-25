@@ -1,4 +1,4 @@
-# SQL & Data Querying: Sales & Music Store Analysis
+see# SQL & Data Querying: Sales & Music Store Analysis
 
 
 ## Project Overview
@@ -54,6 +54,9 @@ The concrete deliverables and outcomes of this project include:
 
 ## Project Files
 
-![Week 2 - Project Analysis](
+![Week 2 - Project Analysis](https://github.com/shayo21/AnalystLab_Internship_Projects/blob/main/AnalystLab%20Internship%20Project%20Wk%203.sql)
+
+![Summary Report](https://github.com/shayo21/AnalystLab_Internship_Projects/blob/main/Summary%20report_%20E-commerce%20and%20Netflix%20Titles%20.pdf)
+
 
 
