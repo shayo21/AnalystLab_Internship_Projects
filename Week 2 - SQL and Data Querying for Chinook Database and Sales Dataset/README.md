@@ -35,12 +35,12 @@ The baseline average customer lifetime spend in the music database is $39.47. By
 ### Music Store 
 
 * The company's market and acquisition budgets should lean heavily into expanding the Rock, Metal, and Alternative & Punk catalogs.
-* The company should ensure inventory and holiday marketing efforts to aggressively ramped up by September to support the immense volume that hits in November.
-
+* Implement a VIP loyalty program or targeted promotional campaigns specific to these 22 high-value individuals to encourage repeat purchases and retain their exceptional lifetime value.
+  
  ### Adventure Lite
  
 * The warehouse should prioritize supply chain logistics for Classic and Vintage Cars.
-* Implement a VIP loyalty program or targeted promotional campaigns specific to these 22 high-value individuals to encourage repeat purchases and retain their exceptional lifetime value.
+* The company should ensure inventory and holiday marketing efforts to aggressively ramped up by September to support the immense volume that hits in November
   
 ## Project Outcome 
 
