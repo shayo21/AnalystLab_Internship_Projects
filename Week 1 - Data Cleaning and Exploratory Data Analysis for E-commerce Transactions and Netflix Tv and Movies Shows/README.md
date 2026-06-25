@@ -89,3 +89,7 @@ Data validation was performed by identifying and handling invalid values, incons
 ## Project Files
 
 ![Week 1 & 2 projects_Jupyter Notebook](https://github.com/shayo21/AnalystLab_Internship_Projects/blob/main/AnalystLab%20Internship%20Project(WK%201%20%26%202).ipynb)
+
+![cleaned dataset](https://github.com/shayo21/AnalystLab_Internship_Projects/blob/main/cleaned_netflix_titles.csv)
+
+![preprocessing analysis](https://github.com/shayo21/AnalystLab_Internship_Projects/blob/main/preprocessing.py)
